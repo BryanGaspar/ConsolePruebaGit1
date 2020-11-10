@@ -1,5 +1,0 @@
-Comando Git
-Prueba de comandos
-Segundo deTIC
-09/11/2020
-By Bryan Gaspar
