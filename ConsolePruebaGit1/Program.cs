@@ -24,5 +24,9 @@ namespace ConsolePruebaGit1
         {
             return (a - b);
         }
+        public static void Prueba()
+        {
+            Console.WriteLine("Esto es una prueba");
+        }
     }
 }
